@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kcian
+- 👀 I’m front-end developer
+- 🌱 I’m currently learning js,html,css,react,php
